@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">iDiary</string>
+    <string name="add_subject_title">Список предметов</string>
+    <string name="hint_list_subjects">
+        Составьте список
+        ваших учебных предметов
+    </string>
+    <string name="enter_subject">Введите предмет</string>
+    <string name="chose_subject">Выберите предмет</string>
+    <string name="enter_homework">Введите домашнее задание</string>
+    <string name="hint_add_table">
+        Здесь пока ничего нет.
+        Добавьте расписание через меню
+    </string>
+
+    <string name="add">Добавить</string>
+    <string name="add_subject">Добавить предмет</string>
+    <string name="save">Сохранить</string>
+
+    <string name="edit_table">Изменить расписание</string>
+    <string name="edit_subject">Изменить предмет</string>
+    <string name="question">Внимание, вопрос</string>
+    <string name="use_previous_week">Использовать расписание предыдущей недели?</string>
+
+    <string name="cancel">Отмена</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_day">Удалить все сегодня</string>
+    <string name="delete_all">Удалить все</string>
+    <string name="exit">Выход</string>
+</resources>
